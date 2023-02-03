@@ -1,13 +1,15 @@
 # EgitimOncesiUygulamalari
 Eğitim öncesi uygulamaları için açıldı
 # YetGen Core Eğitim Programı
-Bu repoyu eğitim içerikleri için oluşturdum. 
+Bu repoyu eğitim öncesi görevleri için oluşturdum. 
 
 ![Image](https://yetkingencler.com/wp-content/uploads/2021/12/jump.png)
 
 # Eğitim Programı
 
 ## 1.Hafta
-- Python Hakkında Bilgiler 
-- Python ve Visual Code Kurulumu
-- Git ve GitHub Öğrenimi
+## 2.Hafta
+### 3.Hafta
+#### 4.Hafta
+##### 5.Hafta 
+###### 6.Hafta
