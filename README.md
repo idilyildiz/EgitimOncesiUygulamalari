@@ -8,6 +8,18 @@ Bu repoyu eğitim öncesi görevleri için oluşturdum.
 # Eğitim Programı
 
 ## 1.Hafta
+
+
+
+
+
+
+
+
+
+
+
+
 ## 2.Hafta
 ## 3.Hafta
 ## 4.Hafta
